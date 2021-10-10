@@ -1,0 +1,11 @@
+Discusión ejercicios 4.5.2 y 4.5.3
+
+4.5.2:
+sabemos que el el vector de estado generico es:
+|ψ> = c0,0|x0>⊗|y0>+···+ ci,j|xi>⊗|yj>+···+ cn−1,m−1|xn−1>⊗|ym−1>
+por lo que el estado generico de dos particuals con spin es:
+|ψ> = c0,0|↑>|x0>⊗|y0>+···+ ci,j|↓>|xi>⊗|yj>+···+ cn−1,m−1|↑>|xn−1>⊗|ym−1>
+
+4.5.3
+|φ>=|x0>⊗|y1>+|x1>⊗|y1>
+No es separable debido a que Los estados no se pueden dividir en el producto tensorial de estados de los subsistemas constituyentes
